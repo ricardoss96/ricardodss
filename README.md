@@ -18,8 +18,9 @@
 
 ## 👨🏾‍💻 Techs
 
+Leaning:
+
 * Javascript
 * HTML
 * CSS
-* Electron
 * Node.js
